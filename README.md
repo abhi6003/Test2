@@ -1,2 +1,2 @@
 # Test2
-test repo
+test repo for git comands demostration
